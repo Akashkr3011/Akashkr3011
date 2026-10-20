@@ -102,17 +102,6 @@ A personal portfolio showcasing my skills, projects, and development journey.
   <img src="https://streak-stats.demolab.com?user=Akashkr3011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 💻 My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,git,github,vscode" alt="Tech Stack" />
-</p>
-
-- ☕ Java Programmer
-- 🧠 Learning Data Structures & Algorithms (DSA)
-- 💻 Practicing Problem Solving
-- 🚀 Aspiring Software Engineer
-
 
 ## 🤝 Connect With Me
 
