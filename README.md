@@ -89,16 +89,30 @@ A personal portfolio showcasing my skills, projects, and development journey.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashkr3011&show_icons=true&hide_rank=true&theme=tokyonight" alt="Akash Kumar's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkr3011&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashkr3011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkr3011&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashkr3011&theme=tokyonight" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Akashkr3011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+## 💻 My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,git,github,vscode" alt="Tech Stack" />
+</p>
+
+- ☕ Java Programmer
+- 🧠 Learning Data Structures & Algorithms (DSA)
+- 💻 Practicing Problem Solving
+- 🚀 Aspiring Software Engineer
+
 
 ## 🤝 Connect With Me
 
