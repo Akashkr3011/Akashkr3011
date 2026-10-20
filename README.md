@@ -92,8 +92,8 @@ A personal portfolio showcasing my skills, projects, and development journey.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashkr3011&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkr3011&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akashkr3011&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" alt="GitHub statistics" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkr3011&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used languages"/>
 </p>
 
 <p align="center">
