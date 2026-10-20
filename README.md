@@ -66,7 +66,7 @@ Hands-on embedded systems projects involving ESP32, sensors, camera streaming, a
 - Wi-Fi-controlled robotic car
 - Sensor-based automation
 
-🔗 Repository: [ESP32 IoT Projects](https://github.com/Akashkr3011/ESP32-IoT-Projects)v
+🔗 Repository: [ESP32 IoT Projects](https://github.com/Akashkr3011/ESP32-IoT-Projects)
 
 ### 🌐 Developer Portfolio
 A personal portfolio showcasing my skills, projects, and development journey.
