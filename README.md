@@ -66,7 +66,7 @@ Hands-on embedded systems projects involving ESP32, sensors, camera streaming, a
 - Wi-Fi-controlled robotic car
 - Sensor-based automation
 
-🔗 Repository: [Add your IoT repository link](https://github.com/Akashkr3011)
+🔗 Repository: [ESP32 IoT Projects](https://github.com/Akashkr3011/ESP32-IoT-Projects)v
 
 ### 🌐 Developer Portfolio
 A personal portfolio showcasing my skills, projects, and development journey.
@@ -75,7 +75,7 @@ A personal portfolio showcasing my skills, projects, and development journey.
 - FastAPI backend
 - PostgreSQL integration
 
-🔗 Repository: [ESP32 IoT Projects](https://github.com/Akashkr3011/ESP32-IoT-Projects)
+🔗 Repository: [Add your IoT repository link](https://github.com/Akashkr3011)
 
 ---
 
