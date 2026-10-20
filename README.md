@@ -75,7 +75,7 @@ A personal portfolio showcasing my skills, projects, and development journey.
 - FastAPI backend
 - PostgreSQL integration
 
-🔗 Repository: [Add your portfolio repository link](https://github.com/Akashkr3011)
+🔗 Repository: [ESP32 IoT Projects](https://github.com/Akashkr3011/ESP32-IoT-Projects)
 
 ---
 
